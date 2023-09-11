@@ -14,7 +14,7 @@ During the IMPRS-IS (International Max Planck Research School - Intelligent Syst
 See ...
 
 ## Who we are
- - Bon
+ - [Benedikt Höltgen](https://fm.ls/ben)
  - Sali
  - Ällän
  - Estefanu
