@@ -1,4 +1,4 @@
-# Catalyst
+# Catalyst 💥
 ...lower the threshold...for starting interdisciplinary research projects. Catalyst is the Tinder for scientists, an app with the goal to connect researchers from different disciplines sharing the same question. 
 
 ## Why Catalyst
