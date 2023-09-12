@@ -11,7 +11,7 @@ Catalyst is based on so-called QI-cards (Question/Idea-cards). A QI-card contain
 During the IMPRS-IS (International Max Planck Research School - Intelligent Systems) Bootcamp in the year 2022 a small group of people came up with the idea to create a Tinder-like interface to enable interdisciplinary research. From that idea, which has been pitched the first time during a session of that bootcamp, there evolved a group of 5 persons who dedicated parts of their time to make this idea reality. We, these 5 PhD-students, are working on this project in our free time. Catalyst, the app, developed step by step. And we are now very proud to tell you that a first prototypical version of Catalyst exists! We are currently looking for financial support to get a first beta version ready. If you are interested, check out this webpage regularly. Stay catalyzed! ;)
 
 ## Get a First Impression
-See ...
+See the DEMO_prototyp.m4v file!
 
 ## Who we are
  - [Benedikt Höltgen](https://fm.ls/ben)
