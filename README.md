@@ -15,7 +15,7 @@ See ...
 
 ## Who we are
  - [Benedikt Höltgen](https://fm.ls/ben)
- - Sali
+ - [Solveig Peter](http://www.tml.cs.uni-tuebingen.de/team/klepper/index.php)
  - Ällän
  - Estefanu
  - [Rabanus Derr](https://fm.ls/rabanus-derr)
