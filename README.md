@@ -17,5 +17,5 @@ See the DEMO_prototyp.m4v file!
  - [Benedikt Höltgen](https://fm.ls/ben)
  - [Solveig Peter](http://www.tml.cs.uni-tuebingen.de/team/klepper/index.php)
  - [Ellen Rumley](https://is.mpg.de/person/rumley)
- - Estefanu
+ - [Stefano Woerner](https://www.mlmia-unitue.de/authors/stefano-woerner/)
  - [Rabanus Derr](https://fm.ls/rabanus-derr)
