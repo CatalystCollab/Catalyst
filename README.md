@@ -16,6 +16,6 @@ See the DEMO_prototyp.m4v file!
 ## Who we are
  - [Benedikt Höltgen](https://fm.ls/ben)
  - [Solveig Peter](http://www.tml.cs.uni-tuebingen.de/team/klepper/index.php)
- - Ällän
+ - [Ellen Rumley](https://is.mpg.de/person/rumley)
  - Estefanu
  - [Rabanus Derr](https://fm.ls/rabanus-derr)
